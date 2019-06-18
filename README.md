@@ -30,3 +30,10 @@ DESTROY
 * add show template
 * add links to show page
 * style show template
+
+# Edit/Update
+* add edit route
+* add edit form
+* add update route
+* add update formadd method-override
+
