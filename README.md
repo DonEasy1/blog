@@ -37,3 +37,8 @@ DESTROY
 * add update route
 * add update formadd method-override
 
+# DESTROY
+* add destroy route
+* add edit and destroy links
+* 
+
